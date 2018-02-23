@@ -1,8 +1,8 @@
 // write your code below!
 function happyHolidays(){
-  return`Happy Holidays!`
+  console.log('Happy Holidays!')
 }
-happyHolidays('Happy Holidays')
+function happyHolidays()
 
 function happyHolidaysTo(name){
   return `Happy Holidays,${name}!`
