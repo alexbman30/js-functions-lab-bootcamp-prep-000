@@ -18,4 +18,3 @@ function holidayCountdown(days,holiday){
   return `Its ${days} days until ${holiday}!`
 }
 holidayCount("21","St.Pattys day")
-
